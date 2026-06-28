@@ -1,0 +1,319 @@
+{
+  "nodes": [
+    "Python (programming language)",
+    "Hello, world",
+    "Ternary conditional operator",
+    "ABC (programming language)",
+    "ADMB",
+    "ALGOL",
+    "ALGOL 68",
+    "APL (programming language)",
+    "AVR microcontrollers",
+    "Academic Free License",
+    "Academic conference",
+    "ActiveState",
+    "Ada (programming language)",
+    "Advanced Simulation Library",
+    "Ahead-of-time compilation",
+    "Alex Martelli",
+    "Alternative terms for free software",
+    "Amoeba (operating system)",
+    "Anaconda (Python distribution)",
+    "Analyse-it",
+    "Android (operating system)",
+    "Anonymous function",
+    "Apache Groovy",
+    "Apache License",
+    "Apache MXNet",
+    "Apache SINGA",
+    "AppJar",
+    "Apple M1",
+    "Apple Public Source License"
+  ],
+  "edges": [
+    {
+      "from": "Python (programming language)",
+      "to": "ABC (programming language)"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "ADMB"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "ALGOL"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "ALGOL 68"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "APL (programming language)"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "AVR microcontrollers"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Academic Free License"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Academic conference"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Advanced Simulation Library"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Ahead-of-time compilation"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Alex Martelli"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Alternative terms for free software"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Amoeba (operating system)"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Anaconda (Python distribution)"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Analyse-it"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Android (operating system)"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Anonymous function"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Apache Groovy"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Apache License"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Apache MXNet"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "AppJar"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Apple M1"
+    },
+    {
+      "from": "Python (programming language)",
+      "to": "Apple Public Source License"
+    },
+    {
+      "from": "Hello, world",
+      "to": "ALGOL"
+    },
+    {
+      "from": "Hello, world",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "Hello, world",
+      "to": "AppJar"
+    },
+    {
+      "from": "Ternary conditional operator",
+      "to": "ALGOL 68"
+    },
+    {
+      "from": "Ternary conditional operator",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "ABC (programming language)",
+      "to": "ALGOL 68"
+    },
+    {
+      "from": "ADMB",
+      "to": "Advanced Simulation Library"
+    },
+    {
+      "from": "ADMB",
+      "to": "Analyse-it"
+    },
+    {
+      "from": "ALGOL",
+      "to": "ALGOL 68"
+    },
+    {
+      "from": "ALGOL",
+      "to": "APL (programming language)"
+    },
+    {
+      "from": "ALGOL",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "ALGOL 68",
+      "to": "ALGOL"
+    },
+    {
+      "from": "ALGOL 68",
+      "to": "APL (programming language)"
+    },
+    {
+      "from": "ALGOL 68",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "ALGOL 68",
+      "to": "Anonymous function"
+    },
+    {
+      "from": "APL (programming language)",
+      "to": "ALGOL"
+    },
+    {
+      "from": "APL (programming language)",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "Academic Free License",
+      "to": "Alternative terms for free software"
+    },
+    {
+      "from": "Academic Free License",
+      "to": "Apache License"
+    },
+    {
+      "from": "Academic Free License",
+      "to": "Apple Public Source License"
+    },
+    {
+      "from": "Ada (programming language)",
+      "to": "ALGOL"
+    },
+    {
+      "from": "Ada (programming language)",
+      "to": "ALGOL 68"
+    },
+    {
+      "from": "Ada (programming language)",
+      "to": "APL (programming language)"
+    },
+    {
+      "from": "Advanced Simulation Library",
+      "to": "ADMB"
+    },
+    {
+      "from": "Alex Martelli",
+      "to": "Python (programming language)"
+    },
+    {
+      "from": "Alternative terms for free software",
+      "to": "Academic Free License"
+    },
+    {
+      "from": "Alternative terms for free software",
+      "to": "Apache License"
+    },
+    {
+      "from": "Alternative terms for free software",
+      "to": "Apple Public Source License"
+    },
+    {
+      "from": "Anaconda (Python distribution)",
+      "to": "Apache MXNet"
+    },
+    {
+      "from": "Anaconda (Python distribution)",
+      "to": "AppJar"
+    },
+    {
+      "from": "Analyse-it",
+      "to": "ADMB"
+    },
+    {
+      "from": "Android (operating system)",
+      "to": "Ahead-of-time compilation"
+    },
+    {
+      "from": "Anonymous function",
+      "to": "ALGOL 68"
+    },
+    {
+      "from": "Anonymous function",
+      "to": "APL (programming language)"
+    },
+    {
+      "from": "Anonymous function",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "Apache Groovy",
+      "to": "ALGOL"
+    },
+    {
+      "from": "Apache Groovy",
+      "to": "APL (programming language)"
+    },
+    {
+      "from": "Apache Groovy",
+      "to": "Ada (programming language)"
+    },
+    {
+      "from": "Apache Groovy",
+      "to": "Android (operating system)"
+    },
+    {
+      "from": "Apache License",
+      "to": "Academic Free License"
+    },
+    {
+      "from": "Apache License",
+      "to": "Alternative terms for free software"
+    },
+    {
+      "from": "Apache License",
+      "to": "Android (operating system)"
+    },
+    {
+      "from": "AppJar",
+      "to": "Apache License"
+    },
+    {
+      "from": "AppJar",
+      "to": "Python (programming language)"
+    },
+    {
+      "from": "Apple Public Source License",
+      "to": "Academic Free License"
+    },
+    {
+      "from": "Apple Public Source License",
+      "to": "Alternative terms for free software"
+    },
+    {
+      "from": "Apple Public Source License",
+      "to": "Apache License"
+    }
+  ]
+}
